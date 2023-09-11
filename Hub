@@ -1,0 +1,7 @@
+if game.PlaceId == 662417684 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Rxinishot/RobloxHub/main/Lucky%20Block"))()
+end
+
+if game.PlaceId == 155615604 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Rxinishot/RobloxHub/main/Prison%20Life"))()
+end
